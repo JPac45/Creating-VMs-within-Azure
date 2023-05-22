@@ -60,7 +60,9 @@ Resource Group is successfully created.</b>
 To create an Ubuntu VM and a Windows Server VM, follow the same steps as above except <b>Choose either Ubuntu or Windows Server 2022</b> in Image.
 
 <p>
-<img src="https://i.imgur.com/Suc51Uq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dsjXZkE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 </p>
 <p>
 <img src="https://i.imgur.com/Nilj5jJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
