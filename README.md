@@ -14,6 +14,8 @@ This tutorial outlines how to create Windows 10 VMs, Window Server VMs, and Ubun
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows Server 2022
+- Ubuntu
 
 <h2>Post-Install Configuration Objectives</h2>
 
