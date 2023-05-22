@@ -15,13 +15,24 @@ This tutorial outlines how to create Windows 10 VMs, Window Server VMs, and Ubun
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 - Windows Server 2022
 - Ubuntu
 
 
-<h2>Configuration Steps</h2>
+<h2>Resource Group</h2>
 
+<p>
+A resource group is a container that holds related resources for an Azure solution. VMs are housed within a resource group. Therefore a resource group must be created first in Azure in order to house VMS.
+<p>
+From the Azure services page:<b>
+
+- Click Resource Groups
+- Click Create 
+- Name Resource Group and Select a Region
+- Click Review + Create
+- Click Create once validation is passed
+Resource Group is successfully created.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
