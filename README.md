@@ -51,7 +51,7 @@ Resource Group is successfully created.</b>
 - Create username and password; and confirm password
 - Click Create once validation is passed VM will be created.</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FXKVBSx.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Virtual Machines - Ubuntu and Windows Server 2022</h2>
