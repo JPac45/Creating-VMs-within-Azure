@@ -47,7 +47,8 @@ Resource Group is successfully created.</b>
 - Give the VM a name
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
-- Click Review + Create
+- Choose Standard size
+- Create username and password; and confirm password
 - Click Create once validation is passed
 Resource Group is successfully created.</b>
 <p>
