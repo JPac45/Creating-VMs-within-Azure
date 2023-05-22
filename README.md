@@ -8,7 +8,7 @@ This tutorial outlines how to create Windows 10 VMs, Window Server VMs, and Ubun
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
