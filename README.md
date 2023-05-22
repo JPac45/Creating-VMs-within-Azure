@@ -41,9 +41,12 @@ Resource Group is successfully created.</b>
 <p>
 <b>
 
-- Click Resource Groups
 - Click Create 
-- Name Resource Group and Select a Region
+- Click Virtual Machines
+- Choose an existing Resource Group that you previously created
+- Give the VM a name
+- Select the region (it should be the same as the resource group)
+- Select Windows 10 under Image
 - Click Review + Create
 - Click Create once validation is passed
 Resource Group is successfully created.</b>
