@@ -1,4 +1,6 @@
 <img src="https://i.imgur.com/bxunY9z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qC5Pbip.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LHzLEK4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>Creating Virtual Machines in Azure</h1>
