@@ -37,6 +37,17 @@ Resource Group is successfully created.</b>
 <img src="https://i.imgur.com/3hjR7KR.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<h2>Virtual Machines - Windows 10</h2>
+<p>
+<b>
+
+- Click Resource Groups
+- Click Create 
+- Name Resource Group and Select a Region
+- Click Review + Create
+- Click Create once validation is passed
+Resource Group is successfully created.</b>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
