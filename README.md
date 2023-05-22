@@ -23,7 +23,7 @@ This tutorial outlines how to create Windows 10 VMs, Window Server VMs, and Ubun
 <h2>Resource Group</h2>
 
 <p>
-A resource group is a container that holds related resources for an Azure solution. VMs are housed within a resource group. Therefore a resource group must be created first in Azure in order to house VMS.
+A resource group is a container that holds related resources for an Azure solution. VMs are housed within a resource group. Therefore a resource group must be created first in Azure in order to house VMs.
 <p>
 From the Azure services page:<b>
 
