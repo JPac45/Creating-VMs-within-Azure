@@ -42,20 +42,14 @@ Resource Group is successfully created.</b>
 <b>
 
 - Click Create 
-- Click Virtual Machines
+- Click Azure Virtual Machine
 - Choose an existing Resource Group that you previously created
 - Give the VM a name
 - Select the region (it should be the same as the resource group)
 - Select Windows 10 under Image
 - Choose Standard size
 - Create username and password; and confirm password
-- Click Create once validation is passed
-Resource Group is successfully created.</b>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+- Click Create once validation is passed VM will be created.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
